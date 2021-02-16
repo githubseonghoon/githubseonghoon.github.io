@@ -1,1 +1,1 @@
-# SeongHoon's Anomaly Detection Study
+# SeongHoon's Anomaly Detection Notes
