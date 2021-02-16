@@ -9,3 +9,10 @@
 5. [Anomaly Detection - Distance-based Methods](https://www.youtube.com/watch?v=diEYxlkcwFM&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=19)
 6. [Anomaly Detection - Auto-Encoder, I-SVM, SVDD](https://www.youtube.com/watch?v=OmK_GQ40yko&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=20)
 7. [Anomaly Detection - Isolation Forest and Its Variations](https://www.youtube.com/watch?v=puVdwi5PjVA&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=21)
+
+* ScikitLearn
+1. [2.7. Novelty and Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html)
+
+
+* blog
+1. [Jaeyun's Blog](https://jayhey.github.io/category/#/Novelty%20Detectio)
