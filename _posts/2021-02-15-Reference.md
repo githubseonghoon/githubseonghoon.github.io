@@ -1,7 +1,6 @@
 # Anomaly Detection 참고자료
 
 * [Korea University] Business Analytics (IME654)
-
 1. [Anomaly Detection - Overview](https://www.youtube.com/watch?v=ECgI1YVQpY8&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=15)
 2. [Anomaly Detection - (mixture of) Gaussian Density Estimation](https://www.youtube.com/watch?v=kKZM8bxwQbA&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=16)
 3. [Anomaly Detection - Parzen Window Density Estimation](https://www.youtube.com/watch?v=rddQT5vxwrg&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=17)
